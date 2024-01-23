@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62487346170",
+    "project_id": "thegourmandapp",
+    "storage_bucket": "thegourmandapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62487346170:android:2249489e1244cc0594c243",
+        "android_client_info": {
+          "package_name": "com.example.thegourmandapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62487346170-srs55lh11d599mvjgg8ktfbsb5mkq27l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb78IWoVoe_m0thqdj-0wq3sP_E62o73o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62487346170-srs55lh11d599mvjgg8ktfbsb5mkq27l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
