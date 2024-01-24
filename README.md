@@ -13,3 +13,4 @@ The app was developed using the Flutter sdk on the android studio platform. Flut
 
 
 ![alt text](https://github.com/Aaronandrew/thegourmandapp/blob/master/Gourmand/LOGIN%20PAGE%20(4)%20(2).pdf)
+![alt text](https://github.com/Aaronandrew/skateApp/blob/main/Screen%20Shot%202024-01-22%20at%2012.31.24%20PM.png)
