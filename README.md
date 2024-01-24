@@ -1,16 +1,9 @@
 # thegourmandapp
 
-A new Flutter project.
+Mission
+To connect Foodpreneurs with consumers globally 
+Vision
+Gourmand purpose is to empower Private Chefs everywhere, at all levels. 
+Create unique experiences through fine dining
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app was developed using the Flutter sdk on the android studio platform. Flutter is a software development kit created by google. It is used to develop cross platform applications for Android and ios. Flutters widgets include platform differences, such as scrolling, navigation, icons and fonts and flutter code is compiled or a native ARM machine code using Dart as the compiler. Flutter has a layered architecture allowing for full customization and design by users. Flutter includes, order history, allows in app purchases, social login products, wishlist variations of products, discount and countdowns on app, and product affiliate links on app push notifications all for a more interactive app. Woocommerce is the wordpress plugin that provides flexibility and several vital features such as inventory, tax management, secure payments, and shipping integration for our website. The products on the app are pulled from this inventory. Wordpress is a free and open source content management system, written in PHP and paired with MySQL or mariadb database. Wordpress comes with vendor sign up, customer sign up and connects to the database or hosting for all of the vendors information. Firebase is google's mobile platform that helps in integrating the app and website. Firebase provides services such Authentication, Storage, Real time Database and Integration.
